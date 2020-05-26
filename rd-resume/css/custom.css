@@ -17,6 +17,22 @@
 }
 
 .flogo img {
+    box-sizing: border-box;
     height: 60px;
+    margin-bottom: 1.5%;
 }
 
+.mobF svg {
+    fill: white;
+    height: 3em;
+}
+
+.mailF svg {
+    fill: white;
+    height: 3em;
+}
+
+.locF svg {
+    fill: white;
+    height: 3em;
+}

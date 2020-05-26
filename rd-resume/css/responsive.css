@@ -212,12 +212,12 @@
     }
      .slide_text h3 {
          font-size: 60px;
+         
     }
      .slide_text h4 {
          font-size: 24px;
          
-         margin: -20px 0;
-    }
+     }
      .slide_text p {
          display: none;
     }
@@ -230,7 +230,7 @@
          line-height: 36px;
          text-align: center;
          font-size: 14px;
-         font-weight: 600;
+         font-weight: 400;
          margin-top: 5px;
     }
      .top-header #navbar-wd {
