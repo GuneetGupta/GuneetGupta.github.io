@@ -211,13 +211,16 @@
          
     }
      .slide_text h3 {
-         font-size: 60px;
+         font-size: 3em;
          
     }
      .slide_text h4 {
          font-size: 24px;
+         margin-top: 20px;;
          
      }
+
+
      .slide_text p {
          display: none;
     }
@@ -244,7 +247,7 @@
          display: none;
     }
      h3.small_heading {
-         font-size: 20px;
+         font-size:25px;
          font-weight: 600;
          line-height: normal;
          margin-top: 25px;
@@ -259,7 +262,10 @@
          text-align: center;
     }
      .heading_main h2 {
-         font-size: 25px;
+         font-size: 30px;
+         font-weight: 600;
     }
+
+    
 }
  

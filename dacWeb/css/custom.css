@@ -86,3 +86,65 @@
     fill:#07528d;
 }
 
+.imgrepcr {
+    display: flex;
+}
+
+.imgrepcr img {
+    width: 287;
+    height: 328;
+}
+
+@media (max-width: 767px) {
+
+    .custoflex img {
+        height: 60px;
+
+    }
+    .ofb svg {
+        height: 60px;
+        fill:#07528d;
+    }
+
+    .mf {
+        font-size: 1.2em;
+    }
+
+    .HM {
+        background-size:100vw;
+    }
+
+    .HMB {
+    
+    
+        background-image: linear-gradient(-90deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.85));
+        
+
+    }
+
+    .imgrepcr {
+        display: block;
+        
+        line-height: 1em;
+        
+        -webkit-column-count: 2;
+        -webkit-column-gap:   0px;
+        -moz-column-count:    2;
+        -moz-column-gap:      0px;
+        column-count:         2;
+        column-gap:           1em;  
+    }
+    
+    .imgrepcr img {
+        /* Just in case there are inline attributes */
+    width: 100% !important;
+    height: auto !important;
+    }
+
+    .layout_padding {
+        padding: 35px 0;
+    }
+}
+
+
+
