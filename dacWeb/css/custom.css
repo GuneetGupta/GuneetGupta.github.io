@@ -1,0 +1,87 @@
+.slide_text {
+    margin-top: 15%;
+}
+
+.mf{
+    font-size: 1.2em;
+}
+
+#aboutUs {
+    transition-duration: 0.6s;
+
+}
+
+.navbar-brand img {
+    height: 60px;
+    width: auto;
+}
+
+.flogo img {
+    box-sizing: border-box;
+    height: 60px;
+    margin-bottom: 1.5%;
+}
+
+.mobF svg {
+    fill: white;
+    height: 3em;
+}
+
+.mailF svg {
+    fill: white;
+    height: 3em;
+}
+
+.locF svg {
+    fill: white;
+    height: 3em;
+}
+
+.custoflex img {
+    height: 100px;
+    width: auto;
+    overflow: visible;
+    margin: 3em;
+
+}
+
+
+.custo {
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.custoflex {
+    
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: space-between;
+    justify-content: center;
+}
+
+.centercusto a {
+    padding: 50px;
+}
+
+.HMB {
+   
+   
+    background-image: linear-gradient(-90deg, rgba(255, 255, 255, 0.24), rgba(255, 255, 255, 0.884));
+    
+
+}
+
+.HM {
+    background-image:url("../images/indref.jpg");
+}
+
+.ofb {
+    padding-bottom: 20px;
+}
+
+.ofb svg {
+    height: 100px;
+    fill:#07528d;
+}

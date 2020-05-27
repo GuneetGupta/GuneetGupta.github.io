@@ -438,7 +438,7 @@ LOADER
 	height: 100%;
 	
 	position: relative;
-	overflow: hidden
+	
 }
 
  .slide_text h3 {
@@ -455,6 +455,7 @@ LOADER
      margin: 0;
      padding: 0;
      line-height: normal;
+     margin-top: 50px;
 }
  .slide_text p {
      color: #0892fd;
